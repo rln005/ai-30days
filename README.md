@@ -6,3 +6,10 @@ Learning ai tools for the 30 days
 - sign in consloe.groq.com for free api
 - created a roast bot using gorq api + prompt template + LLM chain
 -filename: roast-bot.json
+
+
+#DAY-2
+- adding recursive charecter split, pdf file node, retrival q/a
+- groq model, hugging face api
+- creating a pdfchat bot that answers queations based on the pdf
+- understanding all the various nodes working
